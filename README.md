@@ -4,28 +4,30 @@
 
 
 
-##Purpose
+## Purpose
+
 It is a Simple Web Service which Generates Unique Identifier on Every Namespace Called.
 
-#Requirements
+# Requirements
 
-*Python 3+
-*Django
-*Djangorestframework
+* Python 3+
+* Django
+* Djangorestframework
 
-#The services are:
+# The services are:
 
-*Create Unique Identifier
+* Create Unique Identifier
 
 /newId/{namespace}
 
-##Example
+## Example
 
 '''
 https://localhost:8000/newId/abc
 '''
 
-##Folder structure
+## Folder structure
+
 ```
 .
 ├── requirements.txt        # python requirements file
@@ -45,12 +47,12 @@ https://localhost:8000/newId/abc
     
  ```   
  
- ##Installation
+ ## Installation
     
 ```
 pip install -r Requirenents.txt
 ```   
-#Start Local Server
+# Start Local Server
 
 ```
 python manage.py runserver
