@@ -99,8 +99,11 @@ The Main Traidoff with UUID is also Speed and latency. But is very good option f
             int
             
             
- # DEPLOYED ON            
-            
+ # DEPLOYED ON   
+ 
+ ```
+ http://sahilgeek1.pythonanywhere.com/newId/abc
+```            
             
             
 
