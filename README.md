@@ -22,9 +22,9 @@ It is a Simple Web Service which Generates Unique Identifier on Every Namespace 
 
 ## Example
 
-'''
+```
 https://localhost:8000/newId/abc
-'''
+```
 
 ## Folder structure
 
