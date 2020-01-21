@@ -26,6 +26,16 @@ It is a Simple Web Service which Generates Unique Identifier on Every Namespace 
 https://localhost:8000/newId/abc
 ```
 
+# Json Response
+
+```
+
+{
+    "namespace": "abc2-20381240431579600071641"
+}
+
+```
+
 ## Folder structure
 
 ```
