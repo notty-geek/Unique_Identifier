@@ -78,7 +78,7 @@ There are many Thrid party Libraries which are very well-know for generating Uni
 
 Python comes with UUID lib We could have simple Used UUID4() To generate the Unique ID. AS it generated 128-bit number and there are very small chances of collosion as it is 2^61 generated UUID with Unique 128  bits which has Very very small chances of collision 
 
-The Main Traidoff with UUID is also Speed and latency. But is very good option for scalable distribited systems.
+The Main Traidoff with UUID is also Speed and latency. But is very good option for scalable distributed systems.
 
 
 ## Future Task
